@@ -4,9 +4,7 @@ So far, only the RTU media has been implemented, but we hope to release the TCP/
 
 ## Installation
 ### Pre-built pack
-  1. Open the ST CubeMX/IDE software
-  2. Access the additional software package management
-  3. Install the I-CUBE-MOBUS package
+  1. TBD
 ### Self-built pack
   1. Clone this repo
   2. Add 7z to your PATH environment variable  
